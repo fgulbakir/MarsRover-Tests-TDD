@@ -1,0 +1,17 @@
+D:\TDDProject\CSharpTestProject\MarsRover.Test\obj\Debug\netcoreapp2.2\MarsRover.Test.csprojAssemblyReference.cache
+D:\TDDProject\CSharpTestProject\MarsRover.Test\obj\Debug\netcoreapp2.2\MarsRover.Test.csproj.CoreCompileInputs.cache
+D:\TDDProject\CSharpTestProject\MarsRover.Test\obj\Debug\netcoreapp2.2\MarsRover.Test.AssemblyInfoInputs.cache
+D:\TDDProject\CSharpTestProject\MarsRover.Test\obj\Debug\netcoreapp2.2\MarsRover.Test.AssemblyInfo.cs
+D:\TDDProject\CSharpTestProject\MarsRover.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\TDDProject\CSharpTestProject\MarsRover.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\TDDProject\CSharpTestProject\MarsRover.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\TDDProject\CSharpTestProject\MarsRover.Test\bin\Debug\netcoreapp2.2\MarsRover.Test.deps.json
+D:\TDDProject\CSharpTestProject\MarsRover.Test\bin\Debug\netcoreapp2.2\MarsRover.Test.runtimeconfig.json
+D:\TDDProject\CSharpTestProject\MarsRover.Test\bin\Debug\netcoreapp2.2\MarsRover.Test.runtimeconfig.dev.json
+D:\TDDProject\CSharpTestProject\MarsRover.Test\bin\Debug\netcoreapp2.2\MarsRover.Test.dll
+D:\TDDProject\CSharpTestProject\MarsRover.Test\bin\Debug\netcoreapp2.2\MarsRover.Test.pdb
+D:\TDDProject\CSharpTestProject\MarsRover.Test\bin\Debug\netcoreapp2.2\MarsRover.Core.dll
+D:\TDDProject\CSharpTestProject\MarsRover.Test\bin\Debug\netcoreapp2.2\MarsRover.Core.pdb
+D:\TDDProject\CSharpTestProject\MarsRover.Test\obj\Debug\netcoreapp2.2\MarsRover.Test.csproj.CopyComplete
+D:\TDDProject\CSharpTestProject\MarsRover.Test\obj\Debug\netcoreapp2.2\MarsRover.Test.dll
+D:\TDDProject\CSharpTestProject\MarsRover.Test\obj\Debug\netcoreapp2.2\MarsRover.Test.pdb
